@@ -1,0 +1,4 @@
+The silent exception handler:
+  if you see a else: print(). that is a silent exception handler.
+  this is to prevent the program from stopping when a illegal   input is entered.
+  if your input does nothing. this is a case of the silent exception handler preventing thesystem from crashing.
